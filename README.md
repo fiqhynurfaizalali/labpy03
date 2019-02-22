@@ -17,4 +17,7 @@ iterating_var . Selanjutnya, blok pernyataan dieksekusi. Setiap item
 dalam daftar ditugaskan ke iterating_var , dan blok pernyataan 
 dieksekusi sampai seluruh urutan habis.
 
+# latihan2
+
+
 
