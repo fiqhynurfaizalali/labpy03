@@ -9,3 +9,4 @@ while True:
     if a==0:
         break
 print("Bilangan Terbesar = ", max)
+input("\n")
