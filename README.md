@@ -26,5 +26,5 @@ dieksekusi sampai seluruh urutan habis.
 
 # latihan2
 
-
+![](
 
