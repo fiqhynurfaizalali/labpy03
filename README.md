@@ -1,4 +1,5 @@
 # labpy03
+
 # latihan1
 
 ![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/gambar%201.png)
@@ -44,9 +45,15 @@ Melakukan perulangan dengan while, kemudian menambah satu variabel
 hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah 
 mau berhenti mengulang atau tidak?
 
+
 while(jawab == 'ya'): hitung += 1 jawab = raw_input("Ulang lagi tidak? 
 ") Setelah selesai mengulang, cetak berapa kali perulangan tersebut 
 terjadi
+
+untuk melaksanakan/mengeluarkan outputnya :
+
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/%3Batihan2(gambar14).png
+
 
 # program1
 
@@ -70,4 +77,14 @@ dieksekusi sampai seluruh urutan habis.
 
 Untuk menampilkan objek ke perangkat pengeluaran.
 
+
 jika di keluarkan maka hasil outputnya adalah : 
+
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1(gambar15).png
+
+mungkin ini yang bisa saya berikan untuk contoh contohnnya
+
+untuk kekurangannnya saya ucapkan maaf yang sebesar besarnnya
+
+untuk ini terima kasih
+
