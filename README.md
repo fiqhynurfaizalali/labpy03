@@ -27,13 +27,13 @@ dieksekusi sampai seluruh urutan habis.
 
 # latihan2
 
-![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2(gambar10).png)
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2gambar10.png)
 
 penjelasan alur algoritma latihan 2
 
 # while
 
-![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2(gambar9).png)
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2gambar9.png)
 
 Pertama menentukan variabel untuk menghitung, dan menentukan kapan 
 perulangan berhenti. kalau pengguna menjawab tidak maka perulangan akan 
@@ -52,18 +52,18 @@ terjadi
 
 untuk melaksanakan/mengeluarkan outputnya :
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/%3Batihan2(gambar14).png)
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/%3Batihan2gambar14.png)
 
 
-# program1
+# Program1
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1(gambar11).png
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar11.png
 
 penjelasan alur al goritmannya adalah 
 
 # for
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1(gambar12).png)
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar12.png)
 
 Jika urutan berisi daftar ekspresi, itu dievaluasi terlebih dahulu. 
 Kemudian, item pertama dalam urutan ditugaskan ke variabel iterating 
@@ -73,14 +73,14 @@ dieksekusi sampai seluruh urutan habis.
 
 # print
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1(gambar13).png)
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar13.png)
 
 Untuk menampilkan objek ke perangkat pengeluaran.
 
 
 jika di keluarkan maka hasil outputnya adalah : 
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1(gambar15).png)
+!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar15.png)
 
 mungkin ini yang bisa saya berikan untuk contoh contohnnya
 
