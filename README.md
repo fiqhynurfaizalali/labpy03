@@ -15,6 +15,8 @@ import()fungsi, dengan argumen yang sesuai. Nilai kembali dari
 import()digunakan untuk melakukan operasi pengikatan nama 
 importpernyataan. Lihat importpernyataan untuk detail persis operasi 
 pengikatan nama itu.
+
+
 # for
 
 ![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/gambar4.png)
@@ -25,13 +27,15 @@ iterating_var . Selanjutnya, blok pernyataan dieksekusi. Setiap item
 dalam daftar ditugaskan ke iterating_var , dan blok pernyataan 
 dieksekusi sampai seluruh urutan habis.
 
+
 # latihan2
 
-![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2gambar10.png)
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2gambar10.p$
 
 penjelasan alur algoritma latihan 2
 
 # while
+
 
 ![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/latihan2gambar9.png)
 
@@ -52,12 +56,12 @@ terjadi
 
 untuk melaksanakan/mengeluarkan outputnya :
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/%3Batihan2gambar14.png)
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/%3Batihan2gambar14.png)
 
 
 # Program1
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar11.png
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/Program1.py)
 
 penjelasan alur al goritmannya adalah 
 
@@ -73,12 +77,13 @@ dieksekusi sampai seluruh urutan habis.
 
 # print
 
-!(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar13.png)
+![](https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar13.png)
 
 Untuk menampilkan objek ke perangkat pengeluaran.
 
 
 jika di keluarkan maka hasil outputnya adalah : 
+
 
 !(https://github.com/fiqhynurfaizalali/labpy03/blob/master/program1gambar15.png)
 
